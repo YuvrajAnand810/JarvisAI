@@ -1,1 +1,1 @@
-apikey = "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"
+apikey = "Your openai secret key"
